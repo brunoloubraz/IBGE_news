@@ -1,18 +1,22 @@
-header {
+/* header {
   align-items: center;
   background-color: #0E0E0E;
   display: flex;
   text-align: center;
   justify-content: space-between;
-}
+} */
 
 img {
   /* width: 100%; */
-  height: 80px;
+  /* height: 80px; */
 }
 
-.title {
+/* .title {
   margin-right: 45%;
-  color: white;
+  color: white; */
   /* text-align: center; */
+/* } */
+
+.most-recent-news {
+  width: 100%;
 }
